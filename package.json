@@ -1,0 +1,19 @@
+{
+  "name": "giaic-cli-quiz-system-project",
+  "version": "1.0.2",
+  "description": "Cli Based Quiz System Project with Using Typescript , Node.js & Inquirer .",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muniza Nabeel",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.21"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
